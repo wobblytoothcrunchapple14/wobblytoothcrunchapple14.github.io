@@ -1,0 +1,21 @@
+p {
+    color: red;
+    font-size: 50px;
+    margin: 0px;
+    display:inline-block;
+}
+
+#div1 {
+    background-color: pink;
+    display:inline-block;
+    border-style: solid;
+    border-width: 6px;
+    border-color: blue;
+}
+#div2 {
+    background-color: black;
+    display:inline-block;
+    border-style: solid;
+    border-width:6px;
+    border-color: green;
+}
