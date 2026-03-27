@@ -1,0 +1,29 @@
+
+
+
+p {display:inline-block;
+}
+
+#pink {
+    height: 500px;
+    width: 500px;
+    background-color: pink;
+
+}
+#teal {
+    height: 200px;
+    width: 500px;
+    background-color: rgb(84, 238, 238);
+
+}
+#blue {
+    height: 200px;
+    width: 500px;
+    background-color: rgb(113, 113, 234);
+
+}
+#pink2 {
+    height: 200px;
+    width: 500px;
+    background-color: rgb(207, 136, 220);
+}
