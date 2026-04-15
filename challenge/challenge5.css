@@ -1,0 +1,130 @@
+body {
+    margin-top: 0px;
+}
+
+#red{
+    width:10%;
+    height: 147px;
+    background-color: red;
+    margin-top: 0%;
+}
+#yellow {
+    width: 20%;
+    height: 147px;
+    background-color: yellow;
+    margin-top: 0%;
+}
+#blue {
+    width: 30%;
+    height: 147px;
+    background-color: blue;
+    margin-top: 0px;
+}
+#green {
+    width: 40%;
+    height: 147px;
+    background-color: green;
+    margin-top: -30px;
+}
+#purple {
+    width: 50%;
+    height: 147px;
+    background-color: purple;
+    margin-top: -30px;
+    margin-left: -10px;
+}
+#lilgreen{
+    width: 60%;
+    height: 147px;
+    background-color: lightgreen;
+    margin-top: 0px;
+}
+#lilblue {
+    width: 70%;
+    height: 147px;
+    background-color: rgb(130, 208, 233);
+    margin-top: -20px;
+    margin-left: -8px;
+}
+#blue2 {
+    width: 29.85%;
+    height: 147px;
+    background-color: blue;
+    margin-top: -20px;
+
+}
+#grey2 {
+    width:80%;
+    height: 147px;
+    background-color: rgb(240,241,217);
+    margin-top: -20px;
+    margin-left: -8px;
+}
+#piky {
+    width: 90%;
+    height: 147px;
+    background-color: rgb(238, 134,134);
+    margin-top: 0px;
+}
+#pink {
+    width: 90%;
+    height: 147px;
+    background-color: rgb(238, 134, 134);
+    margin-top: 0px;
+}
+#grey1 {
+    width: 80%;
+    height: 147px;
+    background-color: rgb(240, 241, 217);
+    margin-top: 0px;
+}
+#lightblue {
+    width: 70%;
+    height: 147px;
+    background-color: rgb(130, 208, 233);
+    margin-top: -20px;
+    margin-left: -4px;
+}
+#lightgreen {
+    width: 60%;
+    height: 147px;
+    background-color: lightgreen;
+    margin-top: -20px;
+}
+#lightpurple {
+    width: 49.5%;
+    height: 147px;
+    background-color: plum;
+    margin-top: -20px;
+    margin-left: -4px;
+}
+#gren {
+    width: 39.5%;
+    height: 147px;
+    background-color: green;
+    margin-top: -20px;
+    margin-left: -4px;
+
+}
+#yeller {
+    width: 20%;
+    height: 147px;
+    background-color: yellow;
+    margin-top: 0%;
+}
+#re2 {
+    width: 10%;
+    height: 147px;
+    background-color: red;
+    margin-top: 0%;
+}
+
+#red, #pink, #yellow, #grey1, #lightblue, #blue, #blue2, #lightgreen, #lilgreen, #green, #yeller {
+    margin-top: -26px;
+    margin-left: -10px;
+}
+
+p{
+    display: inline-block;
+}
+
